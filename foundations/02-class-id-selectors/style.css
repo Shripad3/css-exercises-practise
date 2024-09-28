@@ -1,0 +1,17 @@
+.number1{
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-size: 18px;
+}
+#id3{
+    font-size: 24px;
+}
+#id1{
+    color: blue;
+    font-size: 32px;
+}
+#id2{
+    background-color: greenyellow;
+    font-size: 26px;
+    font-weight: bold;
+}
